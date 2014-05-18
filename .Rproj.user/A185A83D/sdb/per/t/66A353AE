@@ -1,0 +1,17 @@
+{
+    "contents" : "cachematrix.R\n## included are two function makeCacheMatrix and cacheSolve.\nI am clueless about these functions.  Peer assessors, thank you but I\ndon't need any points for this part of the programming assigment.\nI will need to take this course again with a better understanding of\nthe amount of work entailed.\n\n## Write a short comment describing this function\n\nmakeCacheMatrix <- function(x = matrix()) {\n  \n}\n\n\n## Write a short comment describing this function\n\ncacheSolve <- function(x, ...) {\n  ## Return a matrix that is the inverse of 'x'\n}",
+    "created" : 1400448277242.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2500066819",
+    "id" : "66A353AE",
+    "lastKnownWriteTime" : 1400449035,
+    "path" : "C:/Users/Steve/test_repo/cachematrix.R",
+    "project_path" : "cachematrix.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
